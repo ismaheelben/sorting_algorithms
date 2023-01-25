@@ -90,3 +90,4 @@ void heap_sort(int *array, size_t size)
 		end--;
 		siftdown(array, 0, end, size);
 	}
+}
